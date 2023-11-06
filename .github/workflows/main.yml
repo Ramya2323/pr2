@@ -26,3 +26,4 @@ jobs:
     - name: python application
       run: |
         python calci2.py
+        python pyunit.py
